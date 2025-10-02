@@ -4,10 +4,10 @@ import ReactECharts from "echarts-for-react";
 
 const Home = () => {
     return (
-        <div className="flex w-full flex-col h-screen p-7 md:p-[50px] bg-primary-light relative">
+        <div className="flex w-full flex-col min-h-screen p-7 md:p-[50px] bg-primary-light relative">
             <Components.Menu/>
 
-            <div className="flex w-full h-screen rounded-2xl bg-white items-start shadow-lg p-10 border border-gray-100 flex-col">
+            <div className="flex w-full min-h-screen rounded-2xl bg-white items-start shadow-lg p-10 border border-gray-100 flex-col">
                 <Components.Header/>
                 <div className="grid grid-cols-1 md:grid-cols-3 w-full gap-5 px-2 py-5">
 
