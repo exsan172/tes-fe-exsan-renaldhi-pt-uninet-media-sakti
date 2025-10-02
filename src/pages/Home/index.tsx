@@ -28,7 +28,7 @@ const Home = () => {
                             </div>
                             <div className="flex w-full flex-col gap-1 pt-4 pb-1 border-t border-t-gray-200 items-center h-full">
                                 <div className="flex w-full h-full flex-col justify-center gap-2">
-                                    <div className="flex w-3/4 h-[7px] rounded-full bg-primary-light">
+                                    <div className="flex w-full h-[7px] rounded-full bg-primary-light">
                                         <div className="flex w-[73%] h-[7px] bg-primary rounded-full"></div>
                                     </div>
 
@@ -145,7 +145,7 @@ const Home = () => {
                             </div>
                             <div className="flex w-full flex-col gap-1 pt-4 pb-1 border-t border-t-gray-200 items-center h-full">
                                 <div className="flex w-full h-full flex-col justify-center gap-2">
-                                    <div className="flex w-3/4 h-[7px] rounded-full bg-primary-light">
+                                    <div className="flex w-full h-[7px] rounded-full bg-primary-light">
                                         <div className="flex w-[73%] h-[7px] bg-primary rounded-full"></div>
                                     </div>
 
